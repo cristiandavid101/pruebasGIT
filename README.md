@@ -5,3 +5,4 @@ touch
 mkdir
 git push -u origin master
 git config --list
+vim README.md
